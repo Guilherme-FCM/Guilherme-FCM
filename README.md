@@ -28,6 +28,6 @@
 #
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-fcm&theme=dark&show_icons=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-fcm&theme=dark&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&langs_count=6&theme=dark&username=guilherme-fcm" height="150" alt="languages graph"  />
 </div>
