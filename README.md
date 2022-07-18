@@ -3,11 +3,11 @@
 <img align="left" width="210" src="https://cdn-icons-png.flaticon.com/512/1674/1674969.png"  />
 
 ### Welcome to my GitHub!
-<h4 align="left">I'm a Back-end developer.</h4>
+<h4 align="left">I'm back-end developer.</h4>
 <p align="left">I'm here to share my code and my progress with all of you, thanks for being part of it.</p>
 
 <div align="left">
- <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+ <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
