@@ -18,10 +18,10 @@
 
 <div align="left">
   <a href="https://mail.google.com/mail/u/2/?tf=cm&fs=1&to=guifcm12@gmail.com&hl=pt" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23" alt="portfolio logo"/>
+    <img src="https://img.shields.io/badge/guifcm12-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23" alt="portfolio logo"/>
   </a>
   <a href="https://www.linkedin.com/in/guilherme-fcm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="23" alt="linkedin logo"/>
+    <img src="https://img.shields.io/badge/guilherme--fcm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="23" alt="linkedin logo"/>
   </a>
 </div>
 
