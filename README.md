@@ -10,9 +10,11 @@
  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
- <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div><br />
+ </div>
+ 
+<br />
 
 <div align="left">
   <a href="https://mail.google.com/mail/u/2/?tf=cm&fs=1&to=guifcm12@gmail.com&hl=pt" target="_blank">
@@ -26,6 +28,6 @@
 #
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&username=guilherme-fcm" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&username=guilherme-fcm" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-fcm&theme=dark&show_icons=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&langs_count=6&theme=dark&username=guilherme-fcm" height="150" alt="languages graph"  />
 </div>
