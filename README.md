@@ -17,8 +17,8 @@
 <br />
 
 <div align="left">
-  <a href="https://mail.google.com/mail/u/2/?tf=cm&fs=1&to=guifcm12@gmail.com&hl=pt" target="_blank">
-    <img src="https://img.shields.io/badge/guifcm12-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23" alt="portfolio logo"/>
+  <a href="https://mail.google.com/mail/u/2/?tf=cm&fs=1&to=guilherme_fcm@hotmail.com&hl=pt" target="_blank">
+    <img src="https://img.shields.io/badge/guilherme__fcm-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="23" alt="portfolio logo"/>
   </a>
   <a href="https://www.linkedin.com/in/guilherme-fcm/" target="_blank">
     <img src="https://img.shields.io/badge/guilherme--fcm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="23" alt="linkedin logo"/>
