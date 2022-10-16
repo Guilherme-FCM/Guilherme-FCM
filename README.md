@@ -33,5 +33,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&langs_count=4&theme=algolia&username=guilherme-fcm" height="150" alt="languages graph"  />
 </div>
 <div align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=guilherme-fcm&theme=tokyo-night" height="267" alt="languages graph"  />
+ <img src="https://activity-graph.herokuapp.com/graph?username=guilherme-fcm&theme=tokyo-night" height="266" alt="languages graph"  />
 </div>
