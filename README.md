@@ -2,9 +2,10 @@
 
 <img align="left" width="210" src="https://cdn-icons-png.flaticon.com/512/1674/1674969.png"  />
 
-### Welcome to my GitHub! ![](https://komarev.com/ghpvc/?username=guilherme-fcm&color=447ff7&label=Visitor+count)
-<h4 align="left">I'm back-end developer.</h4>
-<p align="left">I'm here to share my progress and my code with all of you, thanks for being part of it.</p>
+## Welcome to my GitHub! ![](https://komarev.com/ghpvc/?username=guilherme-fcm&color=447ff7&label=Visitor+count)
+📚 Studying software development since 2018 <br>
+🙇‍♂️ Focused on Backend with Node.js <br>
+✔ Improving everyday
 
 <div align="left">
  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
