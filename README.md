@@ -17,6 +17,6 @@
 #
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-fcm&theme=algolia&show_icons=true&count_private=true" width="50%" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-fcm&theme=algolia&layout=compact&langs_count=6" width="38%" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-fcm&theme=algolia&show_icons=true&count_private=true" width="56%" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-fcm&theme=algolia&layout=compact&langs_count=6" width="42.5%" alt="languages graph"/>
 </div>
